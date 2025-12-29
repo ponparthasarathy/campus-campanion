@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>IgniteX - Campus Companion</title>
+
+    <meta
+      name="description"
+      content="IgniteX - Campus Companion – Your one-stop destination for campus news, events, and student services."
+    />
+
+    <link rel="icon" href="/favicon.ico" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+
+    <!-- THIS MUST EXIST -->
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+(function(){if(!window.chatbase||window.chatbase("getState")!=="initialized"){window.chatbase=(...arguments)=>{if(!window.chatbase.q){window.chatbase.q=[]}window.chatbase.q.push(arguments)};window.chatbase=new Proxy(window.chatbase,{get(target,prop){if(prop==="q"){return target.q}return(...args)=>target(prop,...args)}})}const onLoad=function(){const script=document.createElement("script");script.src="https://www.chatbase.co/embed.min.js";script.id="TBQPCrK_2128CYK3OiO9t";script.domain="www.chatbase.co";document.body.appendChild(script)};if(document.readyState==="complete"){onLoad()}else{window.addEventListener("load",onLoad)}})();
+</script>
+    <script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/12.7.0/firebase-app.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyBEphI-3WPzFmopS_WGd2DCNvhadx1v1LU",
+    authDomain: "campuscampanion-ignitex.firebaseapp.com",
+    projectId: "campuscampanion-ignitex",
+    storageBucket: "campuscampanion-ignitex.firebasestorage.app",
+    messagingSenderId: "166382725250",
+    appId: "1:166382725250:web:1833c9595f067343faac9b"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+</script>
+  </body>
+</html>

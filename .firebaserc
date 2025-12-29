@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "campuscampanion-ignitex",
+    "prod": "campuscompanion-be899",
+    "prob": "campuscompanion-d00a4",
+    "dev": "campuscampanion-ignitex"
+  },
+  "targets": {},
+  "etags": {}
+}
