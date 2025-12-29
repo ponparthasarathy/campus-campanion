@@ -1,73 +1,119 @@
-# Welcome to your Lovable project
+# 🔥 IgniteX – Smart Campus Solutions  
+### Powered by CampusCampanion
 
-## Project info
+IgniteX is a modern, student-centric web platform designed to simplify everyday campus life.  
+It focuses on solving real problems faced by students using a clean UI, intuitive design, and smart integrations.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🚀 Project Vision
 
-There are several ways of editing your application.
+Campus life often feels confusing — finding classrooms, reporting issues, or tracking buses takes unnecessary time and effort.  
+**IgniteX** brings all essential campus utilities into one unified, elegant platform.
 
-**Use Lovable**
+Our goal is to create a **scalable smart campus solution** that is intuitive for freshers and powerful for administrators.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🧩 Core Features
 
-**Use your preferred IDE**
+### 📝 Report Issue
+- Students can report campus issues (infrastructure, cleanliness, electrical, etc.)
+- Real-time status tracking: *Submitted → In Progress → Resolved*
+- Admin-controlled issue management dashboard
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🧭 Find Classroom
+- Classroom locator based on:
+  - Department
+  - Year
+  - Section
+- Integrated **Google Maps** for accurate navigation
+- Extremely helpful for **freshers and new visitors**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🚌 Track Bus
+- Live campus bus tracking
+- View routes, stops, and timings
+- Reduces waiting time and confusion for students
 
-Follow these steps:
+> ⚡ Only essential, high-impact features are included to keep the experience clean and focused.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 👥 User Roles
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 🎓 Student Login
+- Access all core features
+- Report issues
+- Navigate classrooms
+- Track buses in real time
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### 🛠️ Admin Login
+- Manage reported issues
+- Update classroom data
+- Control bus routes and timings
+- Full system control from a single dashboard
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🎨 UI / UX Highlights
 
-**Use GitHub Codespaces**
+- Modern, dark & gradient-based design
+- Animated feature cards
+- Minimalist layout inspired by hackathon-grade websites
+- Smooth transitions and micro-animations
+- Fully responsive (mobile, tablet, desktop)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🧪 Demo Mode
 
-This project is built with:
+A **Demo button** is included to:
+- Showcase features without login
+- Allow judges to explore instantly
+- Improve first impression during evaluations
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🛠️ Tech Stack
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+- **Frontend:** Modern Web UI (Lovable / React-based design)
+- **Maps:** Google Maps API
+- **Authentication:** Role-based login (Student / Admin)
+- **Design Focus:** Clean UI, animations, accessibility
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 🌍 Scalability & Future Scope
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+- AI-based issue categorization
+- Smart notifications
+- Attendance & timetable integration
+- Multi-campus support
+- Analytics dashboard for admins
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+
+## 🏆 Why IgniteX Stands Out
+
+✔ Solves real student problems  
+✔ Minimal yet powerful feature set  
+✔ Freshers-friendly  
+✔ Judge-focused presentation  
+✔ No unnecessary branding or clutter  
+
+---
+
+## 📌 Project Name
+
+**Platform:** UniSphere  
+**Project:** IgniteX  
+
+---
+
+## 📄 License
+
+This project is developed for educational and hackathon purposes.
+
+---
+
+### ✨ IgniteX — Turning Campus Chaos into Clarity
